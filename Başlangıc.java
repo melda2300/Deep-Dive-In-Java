@@ -1,5 +1,4 @@
-// Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
-// then press Enter. You can now see whitespace characters in your code.
+
 public class Başlangıc {
     public static void main(String[] args) {
 int sayı=1; // tam sayı
