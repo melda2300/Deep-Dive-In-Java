@@ -1,5 +1,5 @@
 
-public class Başlangıc {
+public class beginning {
     public static void main(String[] args) {
 int sayı=1; // tam sayı
 double sayılar= 1.23333; // ondalık sayılar
