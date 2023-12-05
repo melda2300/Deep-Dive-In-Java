@@ -6,8 +6,7 @@ public class SimpleInterestCalculator {
         int aylar = scr.nextInt();
         System.out.print("Kredi Tutarını Giriniz : ");
         double kredi = scr.nextDouble();
-        System.out.print("Vergi Oranını Giriniz : ");
-        double vergiOrani = scr.nextDouble();
+        double vergiOrani = 4.20 ;
         // Vergi hesaplaması yapılır
         double vergii = kredi / vergiOrani;
         // Anapara hesaplaması yapılır
@@ -22,4 +21,3 @@ public class SimpleInterestCalculator {
         }
     }
 }
-
